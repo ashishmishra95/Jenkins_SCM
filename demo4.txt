@@ -1,0 +1,14 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 38D2-401D
+
+ Directory of D:\Jenkins_tutorials\JAVA_GIT_EXAMPLES
+
+28-03-2020  13:50    <DIR>          .
+28-03-2020  13:50    <DIR>          ..
+28-03-2020  13:20    <DIR>          demo1
+28-03-2020  13:26               503 demo3.txt
+28-03-2020  13:50                 0 demo4.txt
+28-03-2020  13:15               425 HelloWorld.class
+28-03-2020  13:13               112 HelloWorld.java
+               4 File(s)          1,040 bytes
+               3 Dir(s)  46,437,842,944 bytes free
